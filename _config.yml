@@ -1,10 +1,9 @@
 ### your site title here
 
 title: Aman Shahi
-description: subtitle | affiliations | motto
+description: Amazon Affiliations
 
 # url: "" #custom url to be used instead of GitHub repository
-email: #
 
 # Pagination
 paginate: 4
@@ -12,15 +11,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "aman-pratap-shahi-68434b230"
+instagram: "_amanhere_"
+facebook: "100012912910095"
 
 
 # Markdown
