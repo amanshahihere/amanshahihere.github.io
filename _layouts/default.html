@@ -16,7 +16,7 @@
 
     {% include mathjax.html %}
 
-    
+
 
     <script
         type="text/javascript"> (function () { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
@@ -25,14 +25,20 @@
 <body>
     <main>
         <article>
-            <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BBN56J5H&asins=B0BBN56J5H&linkId=c81cd137a9fa85765c441120d203949e&show_border=true&link_opens_in_new_window=true"></iframe>
-            <ul>
-                {% for offer in site.data.amazonlinks %}
-                <li>
-                    <a href="{{offer.link}}"><img src="{{offer.img}}"></img></a>
-                </li>
-                {% endfor %}
-            </ul>
+                <!-- <ul> -->
+                <div style="column-count: 2;">
+                    {% for offer in site.data.amazonlinks %}
+                    <div>
+
+                        <!-- <li> -->
+                        <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin"
+                            style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no"
+                            frameborder="0" src="{{offer.link}}"></iframe>
+                    </div>
+                    <!-- </li> -->
+                    {% endfor %}
+                </div>
+            </div>
         </article>
     </main>
 
