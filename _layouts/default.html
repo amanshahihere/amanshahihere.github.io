@@ -16,7 +16,8 @@
 
     {% include mathjax.html %}
 
-    <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+    
+
     <script
         type="text/javascript"> (function () { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v5.11.0/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
 </head>
@@ -24,7 +25,13 @@
 <body>
     <main>
         <article>
-            {{ content }}
+            <ul>
+                {% for offer in site.data.amazonlinks %}
+                <li>
+                    <a href="{{offer.link}}"><img src="{{offer.img}}"></img></a>
+                </li>
+                {% endfor %}
+            </ul>
         </article>
     </main>
 
@@ -37,9 +44,6 @@
         {% include social-footer.html %}
 
     </footer>
-
-    <!-- {% include analytics.html %} -->
-
 </body>
 
 </html>
