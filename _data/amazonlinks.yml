@@ -16,9 +16,5 @@
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0842582RV&asins=B0842582RV&linkId=3d1fff74cfdbf82ae62c447c55f56168&show_border=true&link_opens_in_new_window=true
   name: skybags
 
-- link: <script type="text/javascript" language="javascript">
-      var aax_size='300x600';
-      var aax_pubname = 'amanhere0b-21';
-      var aax_src='302';
-    </script>
-    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+
+
