@@ -24,3 +24,6 @@
 
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BHYJ8CVF&asins=B0BHYJ8CVF&linkId=8c0c9dbc3be55341abf88cadd6f9502b&show_border=true&link_opens_in_new_window=true
   name: keyboard
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B00BX5FOCK&asins=B00BX5FOCK&linkId=254946079e9c19f8c91eac961cb7de29&show_border=true&link_opens_in_new_window=true
+  name: pendrive
