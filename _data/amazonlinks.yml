@@ -36,4 +36,5 @@
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B07Z5442X9&asins=B07Z5442X9&linkId=bd30f25af4656f7cd9dee94f47636512&show_border=true&link_opens_in_new_window=true
   name: shoes
 
-
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09NYKZ7M8&asins=B09NYKZ7M8&linkId=ab5a9772eb1862ab8f723a58b18d292c&show_border=true&link_opens_in_new_window=true
+  name: earphone
