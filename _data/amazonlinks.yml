@@ -15,3 +15,9 @@
 
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0842582RV&asins=B0842582RV&linkId=3d1fff74cfdbf82ae62c447c55f56168&show_border=true&link_opens_in_new_window=true
   name: skybags
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B3MNYGTW&asins=B0B3MNYGTW&linkId=b7444656d9677d65380cae3af67d9192&show_border=true&link_opens_in_new_window=true
+  name: oneplus earphone
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0781Z3BW6&asins=B0781Z3BW6&linkId=18a395cd3b3a79ce695e34d85c953e84&show_border=true&link_opens_in_new_window=true
+  name: pampers
