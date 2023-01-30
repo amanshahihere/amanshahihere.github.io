@@ -19,5 +19,27 @@
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0B3MNYGTW&asins=B0B3MNYGTW&linkId=b7444656d9677d65380cae3af67d9192&show_border=true&link_opens_in_new_window=true
   name: oneplus earphone
 
+<<<<<<< HEAD
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0781Z3BW6&asins=B0781Z3BW6&linkId=18a395cd3b3a79ce695e34d85c953e84&show_border=true&link_opens_in_new_window=true
   name: pampers
+=======
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0719B8HQZ&asins=B0719B8HQZ&linkId=c1c75a0a3fbc8f352ada53652b88244b&show_border=true&link_opens_in_new_window=true
+  name: mat
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0BHYJ8CVF&asins=B0BHYJ8CVF&linkId=8c0c9dbc3be55341abf88cadd6f9502b&show_border=true&link_opens_in_new_window=true
+  name: keyboard
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B01N6LU1VF&asins=B01N6LU1VF&linkId=77d1cf9d9ef3446d477ee63d6b6ceb6f&show_border=true&link_opens_in_new_window=true
+  name: pendrive
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09KTRXV6R&asins=B09KTRXV6R&linkId=d6dfd200f54da8c9111f95f9c686746a&show_border=true&link_opens_in_new_window=true 
+  name: Gun
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09Q34MKMY&asins=B09Q34MKMY&linkId=1dc8e0ef12bb36337a9bb1c81009028b&show_border=true&link_opens_in_new_window=true 
+  name: sort gun
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B07Z5442X9&asins=B07Z5442X9&linkId=bd30f25af4656f7cd9dee94f47636512&show_border=true&link_opens_in_new_window=true
+  name: shoes
+
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09NYKZ7M8&asins=B09NYKZ7M8&linkId=ab5a9772eb1862ab8f723a58b18d292c&show_border=true&link_opens_in_new_window=true
+  name: earphone
+>>>>>>> 8c005d4f36c63be4fc019961164e033e2e1e4cbe
