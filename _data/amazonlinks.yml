@@ -42,4 +42,7 @@
 
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09NYKZ7M8&asins=B09NYKZ7M8&linkId=ab5a9772eb1862ab8f723a58b18d292c&show_border=true&link_opens_in_new_window=true
   name: earphone
->>>>>>> 8c005d4f36c63be4fc019961164e033e2e1e4cbe
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09B3WZ7Y7&asins=B09B3WZ7Y7&linkId=302a2908108d41884aa03f148c87cae4&show_border=true&link_opens_in_new_window=true
+  name: shoes
+
+
