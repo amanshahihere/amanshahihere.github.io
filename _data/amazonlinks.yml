@@ -45,4 +45,6 @@
 - link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B09B3WZ7Y7&asins=B09B3WZ7Y7&linkId=302a2908108d41884aa03f148c87cae4&show_border=true&link_opens_in_new_window=true
   name: shoes
 
+- link: //ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amanhere0b-21&language=en_IN&marketplace=amazon&region=IN&placement=B0781Z3BW6&asins=B0781Z3BW6&linkId=c5d819789cdf98b038518d1562c7f42a&show_border=true&link_opens_in_new_window=true
+  name: 
 
